@@ -10,6 +10,7 @@ public enum ShapeType {
 	
 	ShapeType(String val){
 		this.val = val;
+		System.out.println("Constructor called");
 	}
 	
 	public String getVal() {

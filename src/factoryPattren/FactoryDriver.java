@@ -10,5 +10,6 @@ public static void main(String[] args) {
 	Shape shape2 = sf.getShape(ShapeType.Rectangle);
 	shape2.draw();
 	
+		
 }
 }
