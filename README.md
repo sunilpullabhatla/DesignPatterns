@@ -4,7 +4,8 @@ In core java, there are mainly three types of design patterns, which are further
 
 <tr>
 <td>
-1.Creational Design Pattern
+  <h5>1.Creational Design Pattern</h5>
+  
 Factory Pattern
 Abstract Factory Pattern
 Singleton Pattern
@@ -12,7 +13,7 @@ Prototype Pattern
 Builder Pattern.
 </td>
 <td>
-2. Structural Design Pattern
+<h5>2. Structural Design Pattern</h5>
 Adapter Pattern
 Bridge Pattern
 Composite Pattern
@@ -23,7 +24,7 @@ Proxy Pattern
 </td>
 <td>
 
-3. Behavioral Design Pattern
+<h5>3. Behavioral Design Pattern</h5>
 Chain Of Responsibility Pattern
 Command Pattern
 Interpreter Pattern
